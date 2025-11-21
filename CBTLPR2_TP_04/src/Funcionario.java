@@ -1,3 +1,10 @@
+/*
+ Nome: Luiz Gustavo Verissimo Monteiro
+ Prontuário: CB3030326
+
+ Nome: Luiz Felipe Gonçalves da Silva
+ Prontario: CB3030539
+*/
 public class Funcionario {
 	private int cod_func;
 	private double sal_func;
